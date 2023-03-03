@@ -1,4 +1,4 @@
-# Data_Structures_Project
+# Rational_Numbers_Project
 
 This project uses data structures to organize simplified rational numbers. 
 Data Structures used are as follows:
