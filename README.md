@@ -13,4 +13,4 @@ First, user gets to choose what type of container they want to begin filling the
 As the user begins to input rational numbers, it gets sorted in an ascending order. 
 There are also input validation to make sure that invalid numbers are handled correctly.
 
-Each container has its own sets of functiosn to manipulate the container's elements. 
+Each container has its own sets of functions to manipulate the container's elements. 
